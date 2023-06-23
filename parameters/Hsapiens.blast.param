@@ -1,0 +1,5 @@
+M=1 N=-1 Q=5 R=1
+Z=3000000000 Y=3000000000 B=10000 V=100
+-cpus=1 -warnings 
+W=10 X=30 S=30 S2=30 gapS2=30
+lcfilter filter=seg filter=dust

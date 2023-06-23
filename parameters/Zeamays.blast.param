@@ -1,0 +1,2 @@
+M=1 N=-1 Q=5 R=1 B=10000 V=100 -cpus=1 -warnings
+-nogap W=9 X=30 S=39 S2=35 filter=seg filter=dust topcomboN=5

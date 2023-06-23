@@ -1,0 +1,11 @@
+#!/bin/sh
+
+if ./bin/iscan -h
+	then echo ""
+	echo "SUCCESSFUL TEST OF TWINSCAN."
+	exit 0
+else  
+	echo "This version of Twinscan is not compatible with your operating system or architecture."
+	echo "Please contact twinscan@cse.wustl.edu for more information."
+	exit 2
+fi
